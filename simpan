@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <title> portofolio Tiyas  </title>
+  </head>
+  <body bgcolor = "pink">
+	  <h1> Hello &#9829 </h1>
+	  <br> <b> Nama : Tiyas Ayu Wardani 
+	  <br> <b> NIM : 1902106006
+	  <br> <b> Kelas : Pendidikan Akuntansi
+	  <p> 
+		  <img src="Foto/Tiyas.jpg"/ style= widght:150px;Height:200px>
+	<p>
+		<a href="https://www.instagram.com/p/CUrvj2XBFoy/?utm_medium=copy_link"> "Klik Disini Untuk Melihat Instagram saya"</a>
+	  <p>
+		  <h2> Praktikum Pemrograman Web </h2>
+	<br> HTML 	
+		<ol>
+		<li><a href="https://Tiyasayu.github.io/Praktikum/HTML/Tugas1.html"> Tugas 1</a></li>
+		<li><a href="https://Tiyasayu.github.io/Praktikum/HTML/Tugas2.html"> Tugas 2</a></li>
+		<li><a href="https://Tiyasayu.github.io/Praktikum/HTML/Tugas3.html"> Tugas 3</a></li>
+		</ol>
+	<br> Form HTML 
+	  <ul>
+		  <li><a href="https://Tiyasayu.github.io/Praktikum/FormHTML/Tugas1.html"> Form Perpustakaan Madiun </a></li>
+	  </ul>
+	  <br> CSS
+	  <ul>
+		  <li><a href="https://Tiyasayu.github.io/Praktikum/CSS/Tugas1.html"> Latihan CSS </a></li>
+	  </ul>
+	  
+	  
+</body>
+</html>
